@@ -2,7 +2,6 @@ package com.webserviceGM.demo.resources;
 
 
 import com.webserviceGM.demo.entities.User;
-import com.webserviceGM.demo.repositories.UserRepository;
 import com.webserviceGM.demo.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
